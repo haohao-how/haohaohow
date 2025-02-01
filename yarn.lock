@@ -2638,7 +2638,7 @@ __metadata:
     hanzi: "patch:hanzi@npm%3A2.1.5#~/.yarn/patches/hanzi-npm-2.1.5-506390bb41.patch"
     inngest: "npm:^3.29.2"
     lodash: "npm:^4.17.21"
-    lottie-react-native: "npm:7.1.0"
+    lottie-react-native: "npm:7.2.2"
     lucia: "npm:^3.2.0"
     moti: "npm:^0.29.0"
     nanoid: "npm:^5.0.9"
@@ -11689,9 +11689,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lottie-react-native@npm:7.1.0":
-  version: 7.1.0
-  resolution: "lottie-react-native@npm:7.1.0"
+"lottie-react-native@npm:7.2.2":
+  version: 7.2.2
+  resolution: "lottie-react-native@npm:7.2.2"
   peerDependencies:
     "@lottiefiles/dotlottie-react": ^0.6.5
     react: "*"
@@ -11702,7 +11702,7 @@ __metadata:
       optional: true
     react-native-windows:
       optional: true
-  checksum: 10c0/0e224d5ebaaa71fe4313cfa0ac3fab25e0779b0fcbb58dd490821e73426dcd59af1a990a6b52b25e6d9dc18e1a129279bfdc44809112bc21c6b3c59ad443097d
+  checksum: 10c0/d0ee7c6ed639ad1b5cfe04dd3b704f3f968806c59a6361986fbb22ebd1b332d9cb13ee7d78ed49848f8d416d468ae2fdc9077815280023dac0b66e841b5ce840
   languageName: node
   linkType: hard
 
