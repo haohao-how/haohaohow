@@ -2207,9 +2207,9 @@ __metadata:
     "@tanstack/react-query": "npm:^5.80.10"
     "@tanstack/react-query-devtools": "npm:^5.80.10"
     "@testing-library/react-native": "npm:^13.2.0"
-    "@trpc/client": "npm:11.3.1"
-    "@trpc/react-query": "npm:11.3.1"
-    "@trpc/server": "npm:11.3.1"
+    "@trpc/client": "npm:11.4.1"
+    "@trpc/react-query": "npm:11.4.1"
+    "@trpc/server": "npm:11.4.1"
     "@types/apple-signin-api": "npm:^1.5.3"
     "@types/babel__core": "npm:7.20.x"
     "@types/color": "npm:4.x || 5.x"
@@ -5986,36 +5986,36 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@trpc/client@npm:11.3.1":
-  version: 11.3.1
-  resolution: "@trpc/client@npm:11.3.1"
+"@trpc/client@npm:11.4.1":
+  version: 11.4.1
+  resolution: "@trpc/client@npm:11.4.1"
   peerDependencies:
-    "@trpc/server": 11.3.1
+    "@trpc/server": 11.4.1
     typescript: ">=5.7.2"
-  checksum: 10c0/fd249de46c49837e8e1447b648b2ba66d8f02d29be0146c5d4eebab4da7ae7b7266fda018045fd8af69cb8863974c97c356396713fcb392e7e6caa4d5e6e6c1e
+  checksum: 10c0/c95bab624ad3cb2d85a31820ddfe809d4466452194e15c3add562af8b2f0b0b65fb707a5703d26a9ed1aa43279f21a1b789b3374083b5e9bfbc68ac15fbae46a
   languageName: node
   linkType: hard
 
-"@trpc/react-query@npm:11.3.1":
-  version: 11.3.1
-  resolution: "@trpc/react-query@npm:11.3.1"
+"@trpc/react-query@npm:11.4.1":
+  version: 11.4.1
+  resolution: "@trpc/react-query@npm:11.4.1"
   peerDependencies:
     "@tanstack/react-query": ^5.80.3
-    "@trpc/client": 11.3.1
-    "@trpc/server": 11.3.1
+    "@trpc/client": 11.4.1
+    "@trpc/server": 11.4.1
     react: ">=18.2.0"
     react-dom: ">=18.2.0"
     typescript: ">=5.7.2"
-  checksum: 10c0/edffde713ab8dbebb21485e31d279f653ed920b9652620119109b3a331f57cd94f6f016a51258480d636a6d12d4c0bf74aedbdc5b7aee5ce942cb64475e35533
+  checksum: 10c0/2253c095606faefed513346990df84e4dc8aaea3c629480b00ce700f341ba8cb646f746fdbd49fa90bd982daa4848d9051d0041b3a68747d550145a0a7701e97
   languageName: node
   linkType: hard
 
-"@trpc/server@npm:11.3.1":
-  version: 11.3.1
-  resolution: "@trpc/server@npm:11.3.1"
+"@trpc/server@npm:11.4.1":
+  version: 11.4.1
+  resolution: "@trpc/server@npm:11.4.1"
   peerDependencies:
     typescript: ">=5.7.2"
-  checksum: 10c0/9e4ae2d86de5229aed52b38e7c7ef8d72a09144d45f7e543f32ef67e584b7b5177ccb7b060120685e8cf0fdc1f281d41f5186bebf93bf5109a2f4a4be6b5e7ef
+  checksum: 10c0/80f36a170688e429f5084321a13f54fae0de429272c6c7aa184affd76a79d638f60799f26d8819b61f4e09142afcc3440ca73ea867604047cbf1132de66becc6
   languageName: node
   linkType: hard
 
